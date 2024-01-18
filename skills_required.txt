@@ -1,0 +1,45 @@
+skills required for data scientist
+
+1. Application development
+2. Data Analysis
+3. Data Mining
+4. Data analytics
+5. data visualization
+6. analytical skills
+7. analytics
+8. Algorithm Design
+9. Computer vision 
+10. image processing
+11. digital signal processing
+12. pattern recognition
+13. pytorch
+14. skill development
+15. learning
+16. Statistics
+17. Artificial Intelligence
+18. machine learning
+
+
+skills for development
+
+1. html
+2. css
+3. javascript
+4. react
+5. salesforce.Com
+6. cloud computing
+7. aws
+8. Web development
+9. Web Design
+10. IT service management
+11. PHP
+12. MySQL
+13. SQL 
+14. Server Side
+15. Unit testing
+16. Wordpress
+
+Other skills
+
+1. aws
+2. azure
